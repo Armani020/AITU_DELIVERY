@@ -1,0 +1,105 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+#nbar{
+  background-image: linear-gradient(to left, red , yellow);
+  padding: 30px 10%;
+}
+.nbar{
+  padding-left: 40px;
+}
+.phone{
+  width: 500px;
+}
+.title-class{
+  margin-top: 15px;
+  text-align: center;
+}
+.aitu-delivery{
+  padding-top: 50px;
+  padding-left: 50px;
+  text-align: left;
+}
+.btn{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+#carousel{
+  background-color: #a6f0c6;
+}
+.car-image{
+  width: 200px;
+  height: 1000px;
+}
+.food-text-into{
+  font-size: 5rem;
+  color: #f4f5db;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+#grid{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-image: linear-gradient(to right, #f4f5db , #a7f0ff);
+}
+.grid-food{
+  text-align: center;
+}
+.grid-food-image{
+  width: 300px;
+  height: 180px;
+  border-radius: 5px;
+}
+.food-block{
+  padding-top: 20px;
+}
+#info{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.r-info{
+  padding: 0px;
+  margin: 0px;
+}
+.info-cards-out{
+  text-align: center;
+}
+.info-cards{
+  text-align: center;
+}
+.info-image{
+  /* width: 300px; */
+  height: 250px;
+}
+.info-topic{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #ffcc29;
+  margin-bottom: 20px;
+}
+#contacts{
+  background-image: linear-gradient(to right, #16c79a , #5e5e5d, #c70039);
+  padding: 50px 10%;
+  margin-bottom: 0px;
+}
+.col-contacts{
+  text-align: center;
+}
+.col-contacts h4{
+  color: #393e46;
+}
+.col-contacts p{
+  color: #fff;
+}
+.LLC{
+  margin-top: 20px;
+}
+.grid-food{
+    transition: 0.5s;
+}
+.grid-food:hover {
+    transform: scale(1.15);
+}
